@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Course_Learning</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+    <string name="uxdesign">Professional Certificate:---
+        What you will learn Follow the design process: empathize with users, define pain points, ideate solutions and
+        3 end-to-end projects: a mobile app, a responsive website, and a cross-platform experience.
+Category: Figma,Abode
+Subtitles: English.
+        Course : 1500[INR]
+    </string>
+    <string name="fullstack">Professional Certificate:---
+        What you will learn
+Master the most up-to-date practical skills and tools that full stack developers use in their daily roles
+        and tools such as HTML, CSS, JavaScript, React, and Bootstrap,including a capstone
+
+Category: Cloud Native,Devops,Html,CSS,Saas,JS,Cloud Computing.
+Course : 2000[INR]</string>
+
+    <string name="python">Beginners:-
+       learn Python Basics including Data Types, Expressions, Variables, and Data Structures.
+        Apply Python programming logic using Branching, Loops, Functions, Objects and Classes.
+Access web data using APIs and web scraping from Python in Jupyter Notebooks.
+Category: Python Programming / Pandas,Numpy,Steamlit
+        Course : 1000[INR]</string>
+    <string name="dataanalayst">Beginners:-
+Learn key analytical skills (data cleaning, analysis, visualization)
+Understand how to clean and organize data for analysis, SQL and R programming
+Learn how to visualize and present data findings in dashboards.
+Category: R Programming,Tableau,SQL,spreedsheets.
+        </string>
+    <string name="deeplearning">Specialization :---You will Learn how to
+Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
+Train test sets, analyze variance for DL applications, use standard techniques and optimization algorithms.
+Category: ANN,Tensorflow,RNN.
+        Course : 1500[INR]</string>
+    <string name="financeanalayst">Certificate of completion:-
+Understand and apply the basic business accounting practices such as the Fundamental Accounting Equation, the Revenue Recognition principle, Accrual Accounting,
+Category: ROI analysis/future revenues, manufacturing overhead
+Financial modeling/analysis
+Course : 500[INR]</string>
+    <string name="accounting">Certificate of completion:-
+What you will learn
+Understand Branch Accounts,Accounting for Consignment,Joint Venture,Investments,Insurance Claims,Average Due DAte,Computer Software
+, Banking Companies.,Hospitals,Final Accounts of Sole Proprietors
+Course : 650[INR]</string>
+    <string name="business">Certificate of completion:-
+        What you will learn
+        Methods, Techniques and tricks to solve math problems in Ratios
+Methods, Techniques and tricks to solve math problems in Proporitons
+Methods, Techniques and tricks to solve math problems in Indices
+Course : 999[INR]
+    </string>
+    <string name="financemanagement">Certificate of completion:-
+        hat you will learn Understand Capital Structure Decisions, Leverage, Capital Structure Theories
+Understand Capital Budgeting Process,Payback,Tresaury Management, Debtors Management, Creditors Management
+Understand Various sources of Finance.Course : 650[INR]</string>
+    <string name="financetrading">Certificate of completion:-
+        NumPy to quickly work with Numerical Data
+Use Pandas for Analyze and Visualize Data,
+Learn how to use statsmodels for Time Series Analysis
+Calculate Financial Statistics, such as Daily Returns, Volatility, etc..
+Calculate the Sharpe Ratio.Course : 999[INR]</string>
+    <string name="philosopy">what you learn in this Course is to Gain an appreciation of the relation of methods of learning about oneself that do not depend on introspection.
+        , philosophy, and neuroscience into the emotions and the unconscious.
+Understand the role of affect in decision making.Course:Free</string>
+    <string name="artsart">Specialization Course in Art :-What you will learn in this course Model, lead, and advocate technology-enabled innovation and transformation in education and training
+Design, develop and learning,
+Design, develop.Course:-Free</string>
+    <string name="graphicdesign">What you learn in this Course are --Key algorithms / techniques used in the past research.
+Category: 3d computer graphics
+Category: Algorithms
+Category: Robotics
+Category: Computer Graphics (CG)
+Computer Graphics (CG)
+    Course:Free</string>
+    <string name="creativethinking">Certificate:-Creative Thinking..What you learn from your Course Understand what creative thinking techniques are problem-solving scenarios or the problem to tackle
+Category: Creative Thinking,Problem Solving,Creativity,Brainstorming
+    Course:Free</string>
+    <string name="leadership">Certificate:-Leadership Principle .Through an understanding of self and situational awareness, identify strategies to perform at your best when it matters most.
+Category: character.Personal Identity,goal setting,Mental toughness,Values.. Course:Free
+</string>
+    <string name="marketing">Certificate:-Measure marketing performance through analytics and present insights
+Build e-commerce stores, analyze online performance, and grow customer loyalty
+Category: Marketing,E-Commerce,display advertising,Email Marketing,Search Engine Optimization (SEO).
+    Course:-500[INR]</string>
+
+    <string name="businessanalyst">Professional Certificate:---Analyze business processes and find solutions to existing business problems.
+Category: Proficient English language,Business background,Computer literacy
+    Course:-400[INR]</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="healthfitness">Explain the relationship between exercise and protein metabolism
+Describe the role of nutritional choices and their impact on health and training
+Category: Training,Nutrition,Fitness And Nutrition,Public Health
+  Course:-Free  </string>
+
+    <string name="dropdown">Drop Down</string>
+    <string name="select">Select Item</string>
+</resources>
